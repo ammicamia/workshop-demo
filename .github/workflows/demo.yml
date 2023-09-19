@@ -59,3 +59,4 @@ jobs:
           echo "Starting the deployment process..."
           echo "Deploying to the server..."
           echo "Deployment completed successfully!"
+          echo "testing CI/CD"
